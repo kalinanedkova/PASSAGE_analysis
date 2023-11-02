@@ -1,4 +1,4 @@
-# mudf_analysis -> PASSAGE_analysis
+# PASSAGE_analysis
 
 This repository was forked from the ahenry_mzr branch of the wisp_analysis repository. The code has been modified to work with PASSAGE data, most notably handling more than 2 grism filters. The below documentation pertains to the original wisp_analysis code and is still largely applicable to this repository.
 
