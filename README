@@ -1,5 +1,5 @@
 This package merges line fitting code from AH with the interactive redshift 
-cataloger from NR.  Several helper functions can be found in the following modules.  
+catalog from NR.  Several helper functions can be found in the following modules.  
 The key code is "measure_z_interactive", which operates on a candidate line list produced by
 "detect_grism_lines.py."   
 
