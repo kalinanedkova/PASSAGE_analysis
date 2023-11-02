@@ -1,6 +1,6 @@
-# mudf_analysis
+# mudf_analysis -> PASSAGE_analysis
 
-This repository was forked from the ahenry_mzr branch of the wisp_analysis repository. The code has been modified to simultaneously fit VLT MUSE and HST WFC3 spectroscopy of the MUSE Ultra Deep Field (MUDF). The below documentation pertains to the original wisp_analysis code and is still largely applicable to this repository.
+This repository was forked from the ahenry_mzr branch of the wisp_analysis repository. The code has been modified to work with PASSAGE data, most notably handling more than 2 grism filters. The below documentation pertains to the original wisp_analysis code and is still largely applicable to this repository.
 
 The WISP emission line detection and verification code for slitless grism spectra. 
 
